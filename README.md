@@ -1,4 +1,4 @@
-# NR2003 PAS Exporter (WIP)
+# NR2003 PAS Exporter (WIP) For Blender
 This is a Blender file export script for writing to Papyrus ASCII Scene (PAS) format. 
 
 ## Features
